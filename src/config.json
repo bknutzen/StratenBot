@@ -1,0 +1,7 @@
+{
+  "apiKey": "a",
+  "apiSecret": "b",
+  "millisecondsBetweenPriceQueries": 5000,
+  "percentChangeForBuy": 0.01,
+  "percentChangeForSell": 0.01
+}
